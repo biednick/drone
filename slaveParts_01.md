@@ -1,12 +1,11 @@
 #Parts List
 
-Mouser BOM: Coming Soon
+Mouser BOM: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=072b554bb2
 
 | Name | Part | Package | Source |
 | --- | --- | --- | --- |
-| C1-C3 | Capacitor, various values | Any | Mouser |
-| C4 | Tone Capacitor | Any | Mouser |
-| IC1 | TL072 | DIP-8 | Mouser |
+| C1-C3 | Capacitor, various values | Any TH | Mouser |
+| C4 | .47uf | Any TH | Mouser |
 | JP1 | Pin Header, 2x5 | 2.54mm pitch | Mouser |
 | LED1-3 | LED, various color | 5mm | Mouser |
 | R1, 3, 5 | Resistor, 1k | Axial TH | Mouser |
