@@ -29,6 +29,6 @@ Featuring 3 reverse avalanche saw oscillators and tone control, this modules all
 
 One of our few purely analog modules, this module features three of the simplest oscillators possible. The transisistors and capacitors can be socketed, allowing you to experiment with different transistors and dial in the perfect frequency range.
 
-### Buy1
+### Buy
 
-I'll be updating this part soon with a link to buy on Reverb.
+I’ll be updating this part soon with a link to buy PCBs on Reverb. For the time being you can email me to purchase development PCBs at a discount. These will be fully functional but have minor issues

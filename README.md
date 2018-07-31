@@ -1,6 +1,6 @@
 # Drones
 
-The drone has been split into 2 modules: A master, which contains 2 oscillators, a passive 3 channel mixer, and tone and volume control; and a slave, which features 3 oscillators and a tone control. I reccomend building 1 master for up to 5 slaves. This gives you 17 oscillators which is plenty for most people.
+The drone has been split into 2 modules: A master, which contains 2 oscillators, a passive 3 channel mixer, and tone and volume control; and a slave, which features 3 oscillators and a tone control. I recommend building 1 master for up to 5 slaves. This gives you 17 oscillators which is plenty for most people.
 
 ## Files
 
