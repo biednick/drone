@@ -1,9 +1,9 @@
-#### [Master](#master) | [Slave](#slave)
+#### [Master](#master) | [Slave](#slave) | [Buy](#buy)
 
 
 # Master
 
-#### [Overview](#overview) | [Design](#design) | [Buy](#buy)
+#### [Overview](#overview) | [Design](#design) 
 
 ### Overview
 
@@ -13,13 +13,10 @@ Featuring 2 reverse avalanche saw oscillators, tone and volume control, and a bu
 
 One of our few purely analog modules, this module features an amplifier to boost the low level of the reverse avalanche oscillator to standard modular levels. A built in volume control allows you to dial in the ideal amouunt of drone in your mix. The transistors and capacitors can be socketed, making it easy to adjust the frequency range or each osscilator.
 
-### Buy
-
-I'll be updating this part soon with a link to buy on Reverb.
 
 # Slave
 
-#### [Overview](#overview1) | [Design](#design1) | [Buy](#buy1)
+#### [Overview](#overview1) | [Design](#design1)
 
 ### Overview1
 
