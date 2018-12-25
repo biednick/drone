@@ -14,7 +14,7 @@ These are the panels in Adobe Illustrator format. I make my panels on a laser cu
 
 ## Updates
 
-### 22AUG18 
+### 01.1 22AUG18 
 Removed the master files because it doesn't work at all.
 
 ### 01 25JUN18
