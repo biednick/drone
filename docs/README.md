@@ -8,7 +8,7 @@ Featuring 3 reverse avalanche saw oscillators and tone control, this module may 
 
 ### Design
 
-One of our few purely analog modules, this module features three of the simplest oscillators possible. The transisistors and capacitors can be socketed, allowing you to experiment with different transistors and dial in the perfect frequency range.
+One of my few purely analog modules, this module features three of the simplest oscillators possible. The transisistors and capacitors can be socketed, allowing you to experiment with different transistors and dial in the perfect frequency range.
 
 ### Buy
 
